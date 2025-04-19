@@ -1,6 +1,6 @@
 '<?php
 
-  $con=mysqli_connect("localhost","root","","hospital");
+  $con=mysqli_connect("localhost","root","","hms");
   session_start();
   if(!$con)
   {

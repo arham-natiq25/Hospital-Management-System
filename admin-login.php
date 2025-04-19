@@ -58,7 +58,7 @@
                     </a></button>
                 <br>
                 <br>
-                <p class="small text-center">© 2022 HMS. All rights reserved</p>
+                <p class="small text-center">© 2025 HMS. All rights reserved</p>
             </div>
         </div>
     </div>
