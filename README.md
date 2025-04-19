@@ -38,7 +38,7 @@ Whether you're a **Patient**, **Doctor**, or **Admin**, the platform provides a 
 
 | Layer        | Technology               |
 |--------------|---------------------------|
-| **Backend**  | PHP (Core or Laravel)     |
+| **Backend**  | PHP (Core )               |
 | **Frontend** | JavaScript, Bootstrap     |
 | **Database** | MySQL                     |
 | **Authentication** | Session-based login |
