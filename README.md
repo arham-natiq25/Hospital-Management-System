@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System – Streamlined Healthcare with PHP
 
 **Live Demo:** *Coming Soon*  
-**GitHub Repository:** [github.com/yourusername/hospital-management](https://github.com/yourusername/hospital-management)
+**GitHub Repository:** https://github.com/arham-natiq25/Hospital-Management-system
 
 ---
 
@@ -46,7 +46,7 @@ Whether you're a **Patient**, **Doctor**, or **Admin**, the platform provides a 
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-04-19 at 21-27-41 Hospital Management System](https://github.com/user-attachments/assets/6de8a1ce-cb12-4bd7-a821-c752dcb8d8f4)
+![Screenshot 2025-04-19 at 21-32-45 Hospital Management System](https://github.com/user-attachments/assets/794363d4-41f6-4dca-9d16-bdc81a3e99c2)
 
 
 
