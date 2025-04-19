@@ -114,7 +114,7 @@
     <section id="footer">
         <div class="container-fluid bg-dark p-5">
             <div class="text-center text-white">
-                Hospital Management System <br> copyright@2022  
+                Hospital Management System <br> copyright@2025  
             </div>
         </div>
     </section>
